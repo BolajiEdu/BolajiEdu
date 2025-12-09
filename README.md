@@ -6,7 +6,7 @@ This repository contains educational security research projects and proof-of-con
 ⚠️ **Legal & Ethical Notice:**  
 All tools and demonstrations are for **educational and research purposes only**. They were developed and tested in authorized, isolated virtual environments. Unauthorized use against systems you do not own or have explicit permission to test is illegal and unethical.
 
-## 📁 Project: Educational Keylogger & C2 Analysis
+## 📁 Project: Adversarial Tool Research 
 **Purpose:** To deconstruct malware techniques by building a controlled proof-of-concept keylogger with basic Command & Control (C2) functionality. This project explores:
 - Keystroke capture mechanisms
 - Data exfiltration methods
