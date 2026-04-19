@@ -35,7 +35,7 @@ I'm a cybersecurity professional specializing in offensive security and penetrat
 
 **Currently:** Advancing practical skills through TCM Security's PNPT certification path, focusing on network penetration testing, privilege escalation, and Active Directory exploitation.
 
-**Professional Experience:** Lead Consultant at UltEnterprise, where I contributed to client vulnerability assessments and threat modeling projects.
+**Professional Experience:** Founder, UltEnterprise | Independent Penetration Testing Consultant, where I contributed to client vulnerability assessments and threat modeling projects.
 
 ## 🔗 Connect
 - **LinkedIn**: [linkedin.com/in/edu-bolaji](https://www.linkedin.com/in/edu-bolaji)
